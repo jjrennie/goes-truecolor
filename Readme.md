@@ -1,7 +1,7 @@
 # Plotting GOES True Color Data stored in AWS
 ## Written By Jared Rennie
 
-This tutorial uses python to download and plot TrueColor data from the GOES-R series
+This tutorial uses python to download and plot TrueColor data from the GOES-R series. Derived from this notebook: https://github.com/blaylockbk/pyBKB_v3/blob/master/BB_GOES/mapping_GOES16_TrueColor.ipynb
 
 ### What You Need
 
